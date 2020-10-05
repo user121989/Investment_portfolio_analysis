@@ -1,4 +1,4 @@
-# Stock-prices-prediction
+# Investment_portfolio_analysis
 
 ## Project tasks:
 1) Create an investment portfolio with a high level of returns and relatively low volatility. To solve this task we will use the next strategy:
